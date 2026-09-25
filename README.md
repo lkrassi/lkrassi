@@ -6,6 +6,16 @@ Open to job / internship opportunities · Открыт к предложения
 
 [GitHub](https://github.com/lkrassi) · [Telegram](https://t.me/lkrasii)
 
+**Tech Stack · Стек**
+
+Frontend
+
+![Frontend stack](./assets/frontend-stack.svg)
+
+Tools & Backend · Инструменты
+
+![Tools stack](./assets/tools-stack.svg)
+
 ---
 
 ## EN
