@@ -2,7 +2,7 @@
 
 Frontend Developer
 
-Open to internship opportunities · Открыт к стажировкам
+Open to job / internship opportunities · Открыт к предложениям о работе / стажировках
 
 [GitHub](https://github.com/lkrassi) · [Telegram](https://t.me/lkrasii)
 
@@ -10,12 +10,10 @@ Open to internship opportunities · Открыт к стажировкам
 
 ## EN
 
-Frontend developer, student. Most of my time goes to learning - mostly frontend, but not only. I'm interested in tasks where the UI runs into something bigger underneath: complex real-time state, different behavior across browsers, and the like.
-
 **Education**
 
 - Master's - ITMO University · Web Technologies · 2026–2028
-- Bachelor's - SFU IKITE · Software Engineering · 2022–2026
+- Bachelor's - SFU ISIT · Software Engineering · 2022–2026
 
 **Projects**
 
@@ -26,8 +24,6 @@ Frontend developer, student. Most of my time goes to learning - mostly frontend,
 ---
 
 ## RU
-
-Frontend-разработчик, студент. Большую часть времени трачу на обучение - в основном frontend, но не только. Интересны задачи, где UI упирается в что-то большее под капотом: сложные real-time состояния, разное поведение в разных браузерах и тому подобное.
 
 **Образование**
 
